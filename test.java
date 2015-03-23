@@ -5,7 +5,7 @@ public class test{
     // main function
     public static void main(String[] args){
  
-         int[] A= {1,2,31, 32, 4,5, 9};
+         int[] A= {123, 45, 456, 453, 9};
 
          String s=computeLargestNumber(A);
 
